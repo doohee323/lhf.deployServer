@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="lib" path="lib/ant-commons-net.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-ftp-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/ant.jar"/>
+	<classpathentry kind="lib" path="lib/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-0.9.30.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-0.9.30.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
