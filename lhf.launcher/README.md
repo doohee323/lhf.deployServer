@@ -2,7 +2,7 @@
 
 ## Objective
 
-¹èÆ÷¼­¹ö¿¡¼­ Å¸°Ù¼­¹ö·Î ÀÚ¿øÀ» ¹èÆ÷ÇÏ°í ¼­ºñ½º¸¦ Àç±âµ¿ÇÏ´Â ÇÁ·Î±×·¥
+ë°°í¬ì„œë²„ì—ì„œ íƒ€ê²Ÿì„œë²„ë¡œ ìì›ì„ ë°°í¬í•˜ê³  ì„œë¹„ìŠ¤ë¥¼ ì¬ê¸°ë™í•˜ëŠ” í”„ë¡œê·¸ë¨
 
 https://sites.google.com/site/pbfsup/library/gong-yusoseuguseong-gwanlibang-an
 
@@ -10,22 +10,19 @@ https://sites.google.com/site/pbfsup/library/gong-yuwongyeogjisoseubaepodogu
 
 ## Usage
 
-¿ø°İÁö ¼Ò½º ¹èÆ÷ µµ±¸
+ì›ê²©ì§€ ì†ŒìŠ¤ ë°°í¬ ë„êµ¬
 
-¤· »ç¿ë¹ı
- - Center¿¡¼­ È£Ãâ
- - ÁÖ·Î CI ¼­¹ö¿¡¼­ º»»ç ¹èÆ÷ ¿Ï·á ÈÄ È£ÃâÇÔ
+ã…‡ ì‚¬ìš©ë²•
+ - Centerì—ì„œ í˜¸ì¶œ
+ - ì£¼ë¡œ CI ì„œë²„ì—ì„œ ë³¸ì‚¬ ë°°í¬ ì™„ë£Œ í›„ í˜¸ì¶œí•¨
   Execute Windows batch command :
   C:/LHF_IDE/workspace/lhf.launcher/bat/execRemote.bat execRemote all
   
- - execRemote : º»»ç CI¿¡ ¹èÆ÷ ¼­¹ö JOB
- - all : win, linux µî ´ë»ó target ¼­¹ö (È¯°æ ¼³Á¤¿¡ ¸í½Ã ÇÔ)
-  - win : window ¼­¹ö
-  - linux : linux ¼­¹ö
+ - execRemote : ë³¸ì‚¬ CIì— ë°°í¬ ì„œë²„ JOB
+ - all : win, linux ë“± ëŒ€ìƒ target ì„œë²„ (í™˜ê²½ ì„¤ì •ì— ëª…ì‹œ í•¨)
+  - win : window ì„œë²„
+  - linux : linux ì„œë²„
 
 ## Developing
 
-- Node.js
-
-Created with [Nodeclipse v0.4](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
+- Groovy
